@@ -1,0 +1,16 @@
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net5.0\MethodExerciseConsole.exe
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net5.0\MethodExerciseConsole.deps.json
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net5.0\MethodExerciseConsole.runtimeconfig.json
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net5.0\MethodExerciseConsole.runtimeconfig.dev.json
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net5.0\MethodExerciseConsole.dll
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net5.0\ref\MethodExerciseConsole.dll
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\bin\Debug\net5.0\MethodExerciseConsole.pdb
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net5.0\MethodExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net5.0\MethodExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net5.0\MethodExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net5.0\MethodExerciseConsole.AssemblyInfo.cs
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net5.0\MethodExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net5.0\MethodExerciseConsole.dll
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net5.0\ref\MethodExerciseConsole.dll
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net5.0\MethodExerciseConsole.pdb
+C:\Users\Billy\source\repos\MethodExercise\MethodExerciseConsole\obj\Debug\net5.0\MethodExerciseConsole.genruntimeconfig.cache
